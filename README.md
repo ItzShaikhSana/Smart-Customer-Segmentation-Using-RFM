@@ -20,6 +20,9 @@ Rank the customers based on their RFM score and segment them based on the score 
 **Scope:**
 
 •	Understand data by performing exploratory data analysis
+
 •	Calculating the recency, frequency and monetary value for each customer
+
 •	Generating a RFM score for each customer
+
 •	Segmenting the customers based on their RFM scores
