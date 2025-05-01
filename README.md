@@ -13,8 +13,11 @@ ABC Superstore is a huge e-commerce business catering to furniture, office suppl
 The goal of this project is to perform RFM analysis based on historical sales data and other relevant features.
 
 Recency - How recently did the customer purchase?
+
 Frequency - How often do they purchase?
+
 Monetary - How much revenue do they generate?
+
 Rank the customers based on their RFM score and segment them based on the score so as to effectively cater them in the future.
 
 **Scope:**
